@@ -1,0 +1,26 @@
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.csproj.AssemblyReference.cache
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.AssemblyInfoInputs.cache
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.AssemblyInfo.cs
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.csproj.CoreCompileInputs.cache
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.RazorAssemblyInfo.cache
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.RazorAssemblyInfo.cs
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\appsettings.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\Shobha_Kudchimath_Sprint I.staticwebassets.runtime.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\Shobha_Kudchimath_Sprint I.exe
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\Shobha_Kudchimath_Sprint I.deps.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\Shobha_Kudchimath_Sprint I.runtimeconfig.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\Shobha_Kudchimath_Sprint I.dll
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\ref\Shobha_Kudchimath_Sprint I.dll
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\bin\Debug\net6.0\Shobha_Kudchimath_Sprint I.pdb
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\scopedcss\bundle\Shobha_Kudchimath_Sprint I.styles.css
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\scopedcss\projectbundle\Shobha_Kudchimath_Sprint I.bundle.scp.css
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.dll
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\ref\Shobha_Kudchimath_Sprint I.dll
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.pdb
+C:\Users\OM c\source\repos\Shobha_Kudchimath_Sprint I\Shobha_Kudchimath_Sprint I\obj\Debug\net6.0\Shobha_Kudchimath_Sprint I.genruntimeconfig.cache
