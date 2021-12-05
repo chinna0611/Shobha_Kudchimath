@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Shobha_Kudchimath_Sprint_I.Models;
+﻿using Shobha_Kudchimath_Sprint2.Models;
+using Microsoft.AspNetCore.Mvc;
 
-namespace Shobha_Kudchimath_Sprint_I.Controllers
+namespace Shobha_Kudchimath_Sprint2.Controllers
 {
     public class ProjectController : Controller
     {

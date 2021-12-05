@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shobha_Kudchimath_Sprint2", "Shobha_Kudchimath_Sprint2\Shobha_Kudchimath_Sprint2.csproj", "{DC65DF71-AD0F-4E84-99F9-4835EF16278A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC65DF71-AD0F-4E84-99F9-4835EF16278A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC65DF71-AD0F-4E84-99F9-4835EF16278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC65DF71-AD0F-4E84-99F9-4835EF16278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC65DF71-AD0F-4E84-99F9-4835EF16278A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5569C91-770A-4459-B856-FC7F41BBB5DB}
+	EndGlobalSection
+EndGlobal
