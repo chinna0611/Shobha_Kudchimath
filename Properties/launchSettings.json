@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:22189",
-      "sslPort": 44332
+      "applicationUrl": "http://localhost:19871",
+      "sslPort": 44328
     }
   },
   "profiles": {
-    "Shobha_Kudchimath_Sprint_I": {
+    "Ranjitha_Rangappa_Sprint1": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7098;http://localhost:5098",
+      "applicationUrl": "https://localhost:7087;http://localhost:5087",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

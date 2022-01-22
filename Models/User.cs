@@ -1,4 +1,4 @@
-﻿namespace Shobha_Kudchimath_Sprint_I.Models
+﻿namespace Shobha_Kudchimath_Sprint1.Models
 {
     public class User
     {
@@ -11,5 +11,6 @@
         public string EmailId { get; set; }
 
         public string Password { get; set; }
+
     }
 }

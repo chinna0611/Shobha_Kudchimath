@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Test_Shobha_sprint_3\\Test_Shobha_sprint_3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1.csproj",
+        "projectName": "Shobha_Kudchimath_Sprint1",
+        "projectPath": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1.csproj",
+        "packagesPath": "C:\\Users\\Shobha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shobha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Test_Shobha_sprint_3\\Test_Shobha_sprint_3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Test_Shobha_sprint_3\\Test_Shobha_sprint_3.csproj",
+        "projectName": "Test_Shobha_sprint_3",
+        "projectPath": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Test_Shobha_sprint_3\\Test_Shobha_sprint_3.csproj",
+        "packagesPath": "C:\\Users\\Shobha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Test_Shobha_sprint_3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shobha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1.csproj": {
+                "projectPath": "C:\\Users\\Shobha\\Desktop\\.net course\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1\\Shobha_Kudchimath_Sprint1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "TweetinviAPI": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

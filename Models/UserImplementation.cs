@@ -1,17 +1,16 @@
-﻿namespace Shobha_Kudchimath_Sprint_I.Models
+﻿namespace Shobha_Kudchimath_Sprint1.Models
 {
-    public class UserImplementation:IUserRepository
+    public class UserImplementation: IUserRepository
     {
         private static List<User> user = new List<User>();
-        private int count = 2;
+        private int count = 1;
 
         public UserImplementation()
         {
-            user.Add(new User() { UserId = 1, FirstName = "Shobha", LastName = "Kudchimath", EmailId = "chinnakudchimath@gmail.com", Password = "1234" });
-            user.Add(new User() { UserId = 2, FirstName = "Shubham", LastName = "Kudchimath", EmailId = "s.kudchimath@gmail.com", Password = "12345" });
-    
+            user.Add(new User() { UserId = 1, FirstName = "Shobha", LastName = "Kudchimath", EmailId = "chinnakudchimath@gmail.com", Password = "9876" });
+
         }
-         
+
         public User AddUser(User users)
         {
             users.UserId = ++count;
@@ -45,5 +44,6 @@
                 LastName = user.LastName
             };
         }
-    }
+    
+}
 }

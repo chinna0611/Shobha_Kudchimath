@@ -1,4 +1,4 @@
-﻿namespace Shobha_Kudchimath_Sprint_I.Models
+﻿namespace Shobha_Kudchimath_Sprint1.Models
 {
     public class TaskModel
     {

@@ -1,6 +1,6 @@
-﻿namespace Shobha_Kudchimath_Sprint_I.Models
+﻿namespace Shobha_Kudchimath_Sprint1.Models
 {
-    public class TaskImplementation : ITaskRepository
+    public class TaskImplementation: ITaskRepository
     {
         private static List<TaskModel> taskModel = new List<TaskModel>();
         private int count = 2;
@@ -8,7 +8,6 @@
         public TaskImplementation()
         {
             taskModel.Add(new TaskModel() { TaskId = 1, AssignedUserId = 1, CreatedOn = DateTime.Now.ToUniversalTime(), Detail = "Task detail", ProjectId = 1, Status = 1 });
-            taskModel.Add(new TaskModel() { TaskId = 2, AssignedUserId = 2, CreatedOn = DateTime.Now.ToUniversalTime(), Detail = "Task detail2", ProjectId = 2, Status = 2 });
         }
         public TaskModel AddTasks(TaskModel taskModels)
         {

@@ -1,14 +1,13 @@
-﻿namespace Shobha_Kudchimath_Sprint_I.Models
+﻿namespace Shobha_Kudchimath_Sprint1.Models
 {
-    public class ProjectImplementation :IProjectRepository
-   {
+    public class ProjectImplementation: IProjectRepository
+    {
         private static List<Project> project = new List<Project>();
         private int count = 2;
 
         public ProjectImplementation()
         {
             project.Add(new Project() { ProjectId = 1, CreatedOn = DateTime.Now.ToUniversalTime(), Detail = "Task detail", Name = "Project 1" });
-            project.Add(new Project() { ProjectId = 2, CreatedOn = DateTime.Now.ToUniversalTime(), Detail = "Task detail2", Name = "Project 2" });
         }
 
         public Project AddProject(Project projects)
@@ -42,7 +41,5 @@
                 CreatedOn = DateTime.Now
             };
         }
-
     }
 }
-
